@@ -1,9 +1,9 @@
 ### Bienvenido a mi perfil ###
 
 
-👋 Hola, Soy @cesarguzman84, desarrollador de software especializado en Javascript, HTML, CCS, REACT y node (stack MERN) también tengo conocimientos en bases de datos SQL y NOSQL, asi como en análisis de datos con python y lenguaje R
+👋 Hola, Soy @cesarguzman84, desarrollador de software especializado en Python, también tengo conocimientos en bases de datos SQL, asi como en análisis de datos con python y lenguaje R
 - 👀 Estoy interesado en proyectos de Data science ...
-- 🌱 Actualente me encuentro profundizando el aprendizaje de python y lenguage R
+- 🌱 Actualente me encuentro profundizando el aprendizaje de python con Django
 
 
 ### Empresas para las que he trabajado: ###
