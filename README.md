@@ -3,7 +3,7 @@
 
 👋 Hola, Soy @cesarguzman84, desarrollador de software especializado en Python, también tengo conocimientos en bases de datos SQL, asi como en análisis de datos con python y lenguaje R
 - 👀 Estoy interesado en proyectos de Data science ...
-- 🌱 Actualente me encuentro profundizando el aprendizaje de python con Django
+- 🌱 Actualente me encuentro profundizando el aprendizaje de Django
 
 
 ### Empresas para las que he trabajado: ###
