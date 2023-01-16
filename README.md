@@ -2,7 +2,7 @@
 
 
 👋 Hola, Soy @cesarguzman84, tengo conocimientos en bases de datos SQL, asi como en análisis de datos con python y lenguaje R
-- 👀 Estoy interesado en proyectos de Data science ...
+- 👀 Estoy interesado en proyectos de Data science y analitica ...
 
 
 
