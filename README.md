@@ -1,7 +1,7 @@
   ### Bienvenido a mi perfil ###
 
 
-👋 Hola, Soy @cesarguzman84, Administrador Financiero especialista en inteligencia de negocios, con conocimientos en herramientas de análisis de datos (Python, lenguaje R, Tableau, Power BI, Power Query y lenguaje DAX), Excel avanzado, bases de datos SQL, nivel de portugués A2 y nivel de inglés B1
+Administrador Financiero especialista en inteligencia de negocios, con conocimientos en herramientas de análisis de datos (Python, lenguaje R, Tableau, Power BI, Power Query y lenguaje DAX), Excel avanzado, bases de datos SQL, nivel de portugués A2 y nivel de inglés B1
 
 
 
